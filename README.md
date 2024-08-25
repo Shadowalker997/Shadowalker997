@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ukpetenan Peter. Nice to meet you
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Natural Language Processing
+- 👀 I’m a Data Scientist
+- 🌱 I’m currently working on Natural Language Processing
 - 💞️ I’m looking to collaborate on Data Driven Projects using python
 - 📫 Reach me on email: eronsukpetenan@gmail.com or on mobile +1 437-818-5356
 - Microsoft Certified: Azure Data Scientist
